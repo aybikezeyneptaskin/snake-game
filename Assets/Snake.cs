@@ -30,6 +30,7 @@ public class Snake : MonoBehaviour
         state = State.Alive;
         _segments.Add(this.transform);
         //Grow();
+        //DENEME
     }
 
     private void Update()
